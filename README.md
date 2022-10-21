@@ -1,11 +1,12 @@
-# Toll-Booth-Management-System
+# Toll-Booth-Management-System 
 
-	Aim of the Project : To efficiently manage the collection of the toll in electronic form as 
+# Aim of the Project : 
+To efficiently manage the collection of the toll in electronic form as 
 well as manual toll collection. Keeping a record of the vehicles and the medium they 
 choose for the payment of the toll.
 
-Abstract : 
-	This project emphasis the application of the current language in the tolling 
+# Abstract : 
+This project emphasis the application of the current language in the tolling 
 system. Project aims to betterment of the tolling system in the collection as well 
 as retrieval of the data of the vehicles passing by the toll booth. It has got a lot of 
 function enough to handle as well as easy in implementation. It counts on the 
