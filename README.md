@@ -1,4 +1,5 @@
 # Toll-Booth-Management-System
+
 	Aim of the Project : To efficiently manage the collection of the toll in electronic form as 
 well as manual toll collection. Keeping a record of the vehicles and the medium they 
 choose for the payment of the toll.
