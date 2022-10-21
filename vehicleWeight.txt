@@ -1,0 +1,9 @@
+Three Wheeler - Auto-rickshaws / trishaws                       | GVWR <= 5000 kgs 
+Car/ Jeep/ Van/ and similar mini light commercial vehicles      | GVWR <= 7500 kgs  
+Light Commercial Vehicles	                                | GVWR > 7500  Kgs && GVWR <= 12000 Kgs
+Three Axle Commercial Vehicles	                                | GVWR > 16000 Kgs && GVWR <= 25000 Kgs
+Bus / Truck	                                                | GVWR > 25000 Kgs && GVWR <= 30000 Kgs
+4 to 6 Axle Vehicles                                            | GVWR > 35000 Kgs && GVWR <= 45000 Kgs
+7 or More Axle Vehicles	                                        | GVWR > 45000 Kgs && GVWR <= 54000 Kgs
+Heavy Construction Machinery(HCM)/ Earth Moving Equipment(EME)	| GVWR > 44000 kgs && GVWR <= 50000 Kgs
+Tractor / Tractor with trailor                          	| GVWR > 12000 kgs && GVWR <= 15000 Kgs

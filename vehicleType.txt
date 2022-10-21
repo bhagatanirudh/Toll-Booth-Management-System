@@ -1,0 +1,7 @@
+	
+1. Two Wheeler 									  |   6. Bus / Truck
+2. Three Wheeler - Auto-rickshaws / trishaws					  |   7. 4 to 6 Axle Vehicles
+3. Four Wheeler - Car/ Jeep/ Van/ and similar mini light commercial vehicles      |   8. 7 or More Axle Vehicles
+4. Light Commercial Vehicles							  |   9. Heavy Construction Machinery(HCM) / Earth Moving Equipment(EME)
+5. Three Axle Commercial Vehicles						  |   10. Tractor / Tractor with trailor
+
